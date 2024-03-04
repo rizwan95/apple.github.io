@@ -1,0 +1,944 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "99G4Z82H6T.com.zoho.zsupport",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/support/SurveyForm",
+          "NOT /zohoone/*/home/cxapp/support/AcceptInvite",
+          "NOT /zohoone/*/home/cxapp/support/WebToCase",
+          "NOT /zohoone/*/home/cxapp/support/SurveyOfflineForm",
+          "NOT /zohoone/*/home/cxapp/support/salesforcecallback",
+          "NOT /zohoone/*/home/cxapp/support/ConfirmCopyConfig",
+          "NOT /zohoone/*/home/cxapp/support/ZSPayment",
+          "NOT /zohoone/*/home/cxapp/support/ImageDisplay",
+          "NOT /zohoone/*/home/cxapp/support/MigrationImageDisplay",
+          "NOT /zohoone/*/home/cxapp/support/MailNotify",
+          "NOT /zohoone/*/home/cxapp/support/*/ForumNotifications.do",
+          "NOT /zohoone/*/home/cxapp/support/widgetticket",
+          "NOT /zohoone/*/home/cxapp/support/GenerateCaptcha",
+          "NOT /zohoone/*/home/cxapp/support/fbw",
+          "NOT /zohoone/*/home/cxapp/support/Unsubscribe",
+          "NOT /zohoone/*/home/cxapp/support/zbhandler",
+          "NOT /zohoone/*/home/cxapp/support/slackIntegration",
+          "NOT /zohoone/*/home/cxapp/support/tpnotify/slack",
+          "NOT /zohoone/*/home/cxapp/support/tpnotify/slackCustomAction",
+          "NOT /zohoone/*/home/cxapp/support/intercomIntegration",
+          "NOT /zohoone/*/home/cxapp/support/intercomInstallation",
+          "NOT /zohoone/*/home/cxapp/support/intercomUninstall",
+          "NOT /zohoone/*/home/cxapp/support/tpnotify/intercomInitialize",
+          "NOT /zohoone/*/home/cxapp/support/tpnotify/intercomSubmit",
+          "NOT /zohoone/*/home/cxapp/support/intercomZohoOauthCallback",
+          "NOT /zohoone/*/home/cxapp/support/RemoteAuth",
+          "NOT /zohoone/*/home/cxapp/support/~za~/*",
+          "NOT /zohoone/*/home/cxapp/support/twitterauthenticate/*",
+          "NOT /zohoone/*/home/cxapp/support/favicon/.*",
+          "NOT /zohoone/*/home/cxapp/support/ze/.*",
+          "NOT /zohoone/*/home/cxapp/support/game/getparticipatinggames.do",
+          "NOT /zohoone/*/home/cxapp/support/game/getorganisinggames.do",
+          "NOT /zohoone/*/home/cxapp/support/game/getresult.do",
+          "NOT /zohoone/*/home/cxapp/support/game/getbadgeresult.do",
+          "NOT /zohoone/*/home/cxapp/support/game/gamelistener.do",
+          "NOT /zohoone/*/home/cxapp/support/pbapiredirect",
+          "NOT /zohoone/*/home/cxapp/support/PBApiRedirectProcess",
+          "NOT /zohoone/*/home/cxapp/support/RingCentralOAuth",
+          "NOT /zohoone/*/home/cxapp/support/ringcentralaudio/incoming.ogg",
+          "NOT /zohoone/*/home/cxapp/support/ringcentralaudio/outgoing.ogg",
+          "NOT /zohoone/*/home/cxapp/support/PBXSampleAuth",
+          "NOT /zohoone/*/home/cxapp/support/PBXSampleClick2Call",
+          "NOT /zohoone/*/home/cxapp/support/accountsTicket",
+          "NOT /zohoone/*/home/cxapp/support/socialnotify",
+          "NOT /zohoone/*/home/cxapp/support/msteamstabconfig",
+          "NOT /zohoone/*/home/cxapp/support/_im/widgethandler",
+          "/zohoone/*/home/cxapp/support/*",
+          "/zohoone/*/home/cxapp/agent/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.desk.radar",
+        "paths": [
+          "/zohoone/*/home/cxapp/support/*",
+          "/zohoone/*/home/cxapp/agent/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.social",
+        "paths": [
+          "/zohoone/*/home/cxapp/social/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.social",
+        "paths": [
+          "/zohoone/*/home/cxapp/social/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zsocial",
+        "paths": [
+          "/zohoone/*/home/cxapp/social/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zreports",
+        "paths": [
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+/view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+/[A-Za-z0-9]+"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.mdm.reports",
+        "paths": [
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+/view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+/[A-Za-z0-9]+"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.inhouse.zoho.zadashboards",
+        "paths": [
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+/view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+/[A-Za-z0-9]+"
+		]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zadashboards",
+        "paths": [
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/workspace/[0-9]+/view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+",
+          "/zohoone/*/home/cxapp/reports/open-view/[0-9]+/[A-Za-z0-9]+"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zprojects",
+        "paths": [
+          "/zohoone/*/home/cxapp/projects/*"
+        ]
+      },
+      {
+        "appID": "9T95ZST4H5.com.zoho.zprojects",
+        "paths": [
+          "/zohoone/*/home/cxapp/projects/portal/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.mdm.projects",
+        "paths": [
+          "/zohoone/*/home/cxapp/projects/portal/*"
+        ]
+      },
+      {
+        "appID": "FVE544UY83.com.zoho.zcrm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zcrm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.mdm.crm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zcrm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "6V85YX7699.com.vtouch.zignite",
+        "paths": [ 
+          "/zohoone/*/home/cxapp/bigin/*" 
+         ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.bigin",
+        "paths": [
+          "/zohoone/*/home/cxapp/bigin/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.chat",
+        "paths": [
+          "/zohoone/*/home/cxapp/chat/channels/*",
+          "/zohoone/*/home/cxapp/chat/network/*/channels/*",
+          "/zohoone/*/home/cxapp/chat/bots/*",
+          "/zohoone/*/home/cxapp/chat/network/*/bots/*",
+          "/zohoone/*/home/cxapp/chat/extensions/*",
+          "/zohoone/*/home/cxapp/chat/network/*/extensions/*",
+          "/zohoone/*/home/cxapp/chat/joinprimetime/*",
+          "/zohoone/*/home/cxapp/chat/verifysuccess",
+          "/zohoone/*/home/cxapp/chat/chats/*",
+          "/zohoone/*/home/cxapp/chat/network/*/chats/*",
+          "/zohoone/*/home/cxapp/chat/chatlets/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.zohochat",
+        "paths": [
+          "/zohoone/*/home/cxapp/chat/channels/*",
+          "/zohoone/*/home/cxapp/chat/network/*/channels/*",
+          "/zohoone/*/home/cxapp/chat/bots/*",
+          "/zohoone/*/home/cxapp/chat/network/*/bots/*",
+          "/zohoone/*/home/cxapp/chat/extensions/*",
+          "/zohoone/*/home/cxapp/chat/network/*/extensions/*",
+          "/zohoone/*/home/cxapp/chat/joinprimetime/*",
+          "/zohoone/*/home/cxapp/chat/verifysuccess",
+          "/zohoone/*/home/cxapp/chat/chats/*",
+          "/zohoone/*/home/cxapp/chat/network/*/chats/*",
+          "/zohoone/*/home/cxapp/chat/chatlets/*"
+        ]
+      },
+      {
+        "appID": "SPVQQBD2N2.com.handyz.zsurvey",
+        "paths": [
+          "/zohoone/*/home/cxapp/survey"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.zsurvey",
+        "paths": [
+          "/zohoone/*/home/cxapp/survey"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zsurveynative",
+        "paths": [
+          "/zohoone/*/home/cxapp/survey"
+        ]
+      },
+      {
+      	"appID": "RDBAA992Q3.com.zoho.dev.zcreator",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/creator/appbuilder/*",
+          "NOT /zohoone/*/home/cxapp/creator/downloadiosfiles/*",
+          "NOT /zohoone/*/home/cxapp/creator/AcceptInvite.do?*",
+          "NOT /zohoone/*/home/cxapp/creator/ConfirmUser.do?*",
+          "/zohoone/*/home/cxapp/creator/*"
+        ]
+      },
+      {
+      	"appID": "TZ824L8Y37.com.zoho.zcreator",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/creator/appbuilder/*",
+          "NOT /zohoone/*/home/cxapp/creator/downloadiosfiles/*",
+          "NOT /zohoone/*/home/cxapp/creator/AcceptInvite.do?*",
+          "NOT /zohoone/*/home/cxapp/creator/ConfirmUser.do?*",
+          "/zohoone/*/home/cxapp/creator/*"
+        ]
+      },
+      {
+        "appID": "SPVQQBD2N2.com.handyz.zpulse",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "/zohoone/*/home/cxapp/connect/client/*",
+          "/zohoone/*/home/cxapp/connect/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.zpulse",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "NOT /zohoone/*/home/cxapp/connect/client/*",
+          "/zohoone/*/home/cxapp/connect/openInApp.ac",
+          "/zohoone/*/home/cxapp/connect/portal/*/archivedgroups",
+          "/zohoone/*/home/cxapp/connect/portal/*/publicgroups",
+          "/zohoone/*/home/cxapp/connect/portal/*/groupdiscover",
+          "/zohoone/*/home/cxapp/connect/portal/*/group/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/group/*/settings",
+          "/zohoone/*/home/cxapp/connect/portal/*/group/*/customapps",
+          "/zohoone/*/home/cxapp/connect/portal/*/group/*/events",
+          "/zohoone/*/home/cxapp/connect/portal/*/group/*/files",
+          "/zohoone/*/home/cxapp/connect/portal/*/group/*/manuals",
+          "/zohoone/*/home/cxapp/connect/portal/*/manual/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/manual/*/article/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/manual/*/article/*/comments/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/profile/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/home",
+          "/zohoone/*/home/cxapp/connect/portal/*/home/customapps",
+          "/zohoone/*/home/cxapp/connect/portal/*/home/manuals",
+          "/zohoone/*/home/cxapp/connect/portal/*/home/customapps/customapp/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/post/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/post/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/categories/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/recentforums",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/postsifollow",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/dashboard",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/myforums",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/mydrafts",
+          "/zohoone/*/home/cxapp/connect/portal/*/forum/others",
+          "/zohoone/*/home/cxapp/connect/portal/*/tasks",
+          "/zohoone/*/home/cxapp/connect/portal/*/privatetasks",
+          "/zohoone/*/home/cxapp/connect/portal/*/board/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/board/*/settings",
+          "/zohoone/*/home/cxapp/connect/portal/*/archivedboards",
+          "/zohoone/*/home/cxapp/connect/portal/*/manuals",
+          "/zohoone/*/home/cxapp/connect/portal/*/events",
+          "/zohoone/*/home/cxapp/connect/portal/*/files",
+          "/zohoone/*/home/cxapp/connect/portal/*/customapps",
+          "/zohoone/*/home/cxapp/connect/portal/*/channels",
+          "/zohoone/*/home/cxapp/connect/portal/*/notificationsettings",
+          "/zohoone/*/home/cxapp/connect/portal/*/question/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/question/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/event/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/event/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/task/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/task/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/stream/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/stream/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/announcement/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhalls",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhalls/ongoing",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhalls/upcoming",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhalls/completed",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhalls/bookmarks",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhall/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhall-question/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/townhall-question/*/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/announcement/*",
+          "/zohoone/*/home/cxapp/connect/portal/*/survey/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zpulse",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "NOT /zohoone/*/home/cxapp/connect/client/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "/zohoone/*/home/cxapp/connect/*"
+        ]
+      },
+      {
+        "appID": "8Z36TNFR99.com.max.sampark",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "NOT /zohoone/*/home/cxapp/connect/client/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "/zohoone/*/home/cxapp/connect/*"
+        ]
+      },
+      {
+        "appID": "7VPXG96P25.com.jambav.viewer",
+        "paths": [
+          "/zohoone/*/home/cxapp/connect/showtime/join/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.showtime.viewer",
+        "paths": [
+          "/zohoone/*/home/cxapp/connect/showtime/join/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.viewer",
+        "paths": [
+          "/zohoone/*/home/cxapp/connect/showtime/join/*"
+        ]
+      },
+      {
+        "appID": "SPVQQBD2N2.com.handyz.zpulseclient",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "NOT /zohoone/*/home/cxapp/connect/client/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "/zohoone/*/home/cxapp/connect/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.zpulseclient",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "/zohoone/*/home/cxapp/connect/client/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "/zohoone/*/home/cxapp/connect/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zpulseclient",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/connect/showtime/join/*",
+          "/zohoone/*/home/cxapp/connect/client/*",
+          "NOT /zohoone/*/home/cxapp/connect/connect/surveyEndPage.do",
+          "/zohoone/*/home/cxapp/connect/*"
+        ]
+      },
+      {
+        "appID": "7VPXG96P25.com.jambav.people",
+        "paths": [
+          "/zohoone/*/home/cxapp/people/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.people.zohopeople",
+        "paths": [
+          "/zohoone/*/home/cxapp/people/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zsolutions",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zcrm.platform",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.mdm.zsolutions",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.platform.crm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "FVE544UY83.com.zoho.zcrm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zcrm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.mdm.crm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zcrm",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/crm/WebToLeadForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToContactForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebToCaseForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/WebForm/*",
+          "NOT /zohoone/*/home/cxapp/crm/Unsubscribe/*",
+          "NOT /zohoone/*/home/cxapp/crm/bookings/*",
+          "/zohoone/*/home/cxapp/crm/*"
+        ]
+      },
+      {
+        "appID": "7VPXG96P25.com.jambav.teamdrive",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/file/*",
+          "/zohoone/*/home/cxapp/teamdrive/folder/*",
+          "/zohoone/*/home/cxapp/teamdrive/show/*",
+          "/zohoone/*/home/cxapp/teamdrive/external/*",
+          "/zohoone/*/home/cxapp/teamdrive/home/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.teamdrive",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/file/*",
+          "/zohoone/*/home/cxapp/teamdrive/folder/*",
+          "/zohoone/*/home/cxapp/teamdrive/show/*",
+          "/zohoone/*/home/cxapp/teamdrive/external/*",
+          "/zohoone/*/home/cxapp/teamdrive/home/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.teamdrive",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/file/*",
+          "/zohoone/*/home/cxapp/teamdrive/folder/*",
+          "/zohoone/*/home/cxapp/teamdrive/show/*",
+          "/zohoone/*/home/cxapp/teamdrive/external/*",
+          "/zohoone/*/home/cxapp/teamdrive/home/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zohosheet",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/sheet/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.sheet",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/sheet/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zsheetmac",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/sheet/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zohosheetipad",
+        "paths": [
+          "/zohoone/*/home/cxapp/teamdrive/sheet/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.salesiq",
+        "paths": [
+          "/zohoone/*/home/cxapp/salesiq/*"
+        ]
+      },
+      {
+        "appIDs": [
+          "3U32PYBF7X.com.iapps.notebook",
+          "3QZ6UJB6QX.com.zoho.inhouse.notebook",
+          "TZ824L8Y37.com.zoho.notebook"
+        ],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/notebook/app/*"
+          },
+          {
+            "/": "/zohoone/*/home/cxapp/notebook/customlogin/*"
+          },
+          {
+            "/": "/zohoone/*/home/cxapp/notebook/appclips/*"
+          }
+        ],
+        "appID": "3U32PYBF7X.com.iapps.notebook",
+        "paths": [
+          "/zohoone/*/home/cxapp/notebook/app/*",
+          "/zohoone/*/home/cxapp/notebook/customlogin/*",
+          "/zohoone/*/home/cxapp/notebook/appclips/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.notebook",
+        "paths": [
+          "/zohoone/*/home/cxapp/notebook/app/*",
+          "/zohoone/*/home/cxapp/notebook/customlogin/*",
+          "/zohoone/*/home/cxapp/notebook/appclips/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.notebook",
+        "paths": [
+          "/zohoone/*/home/cxapp/notebook/app/*",
+          "/zohoone/*/home/cxapp/notebook/customlogin/*",
+          "/zohoone/*/home/cxapp/notebook/appclips/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zflow",
+        "paths": [
+          "/zohoone/*/home/cxapp/orchestly/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.blueprints",
+        "paths": [
+          "/zohoone/*/home/cxapp/orchestly/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.blueprints",
+        "paths": [
+          "/zohoone/*/home/cxapp/orchestly/*"
+        ]
+      },
+      {
+        "appID": "1407213531",
+        "paths": [
+          "/zohoone/*/home/cxapp/orchestly/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.sheet",
+        "paths": [
+          "/zohoone/*/home/cxapp/sheet/sheet/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.zsheetmac",
+        "paths": [
+          "/zohoone/*/home/cxapp/sheet/sheet/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zsheetmac",
+        "paths": [
+          "/zohoone/*/home/cxapp/sheet/sheet/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zohosheetipad",
+        "paths": [
+          "/zohoone/*/home/cxapp/sheet/sheet/*"
+        ]
+      },
+      {
+		"paths": [
+		  "/show/open/*",
+		  "/show/present/*",
+		  "/show/publish/*",
+		  "/show/signup/*"
+		],
+		"appID": "TZ824L8Y37.com.zoho.show"
+	  },
+	  {
+		"paths": [
+		  "/show/open/*",
+		  "/show/present/*",
+		  "/show/publish/*",
+		  "/show/signup/*"
+		],
+	    "appID": "3QZ6UJB6QX.com.zoho.inhouse.zohoshow"
+	  },
+      {
+        "paths": [
+          "/zohoone/*/home/cxapp/show/show/open/*",
+          "/zohoone/*/home/cxapp/show/show/present/*",
+          "/zohoone/*/home/cxapp/show/show/publish/*",
+          "/zohoone/*/home/cxapp/show/show/signup/*"
+        ],
+        "appID": "TZ824L8Y37.com.zoho.show"
+      },
+      {
+        "paths": [
+          "/zohoone/*/home/cxapp/show/show/open/*",
+          "/zohoone/*/home/cxapp/show/show/present/*",
+          "/zohoone/*/home/cxapp/show/show/publish/*",
+          "/zohoone/*/home/cxapp/show/show/signup/*"
+        ],
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.zohoshow"
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.writer",
+        "paths": [
+          "/zohoone/*/home/cxapp/writer/writer/open/*",
+          "/zohoone/*/home/cxapp/writer/writer/compare/*",
+          "/zohoone/*/home/cxapp/writer/writer/published/*",
+          "/zohoone/*/home/cxapp/writer/writer/zwpreview/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.writer",
+        "paths": [
+          "/zohoone/*/home/cxapp/writer/writer/open/*",
+          "/zohoone/*/home/cxapp/writer/writer/compare/*",
+          "/zohoone/*/home/cxapp/writer/writer/published/*",
+          "/zohoone/*/home/cxapp/writer/writer/zwpreview/*"
+        ]
+      },
+      {
+        "appIDs": [
+          "TZ824L8Y37.com.zoho.sign",
+          "TZ824L8Y37.maccatalyst.com.zoho.sign",
+          "3U32PYBF7X.com.memobile.sign"
+        ],
+        "components": [
+          {
+              "/": "/zohoone/*/home/cxapp/sign/*"
+          }
+        ],
+        "appID": "TZ824L8Y37.com.zoho.sign",
+        "paths": [
+          "/zohoone/*/home/cxapp/sign/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.maccatalyst.com.zoho.sign",
+        "paths": [
+          "/zohoone/*/home/cxapp/sign/*"
+        ]
+      },
+      {
+        "appID": "3U32PYBF7X.com.memobile.sign",
+        "paths": [
+          "/zohoone/*/home/cxapp/sign/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zsocial",
+        "paths": [
+          "/zohoone/*/home/cxapp/social/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zagile",
+        "paths": [
+          "/zohoone/*/home/cxapp/sprints/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zsprints",
+        "paths": [
+          "/zohoone/*/home/cxapp/sprints/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.vtouch.mdm.agile",
+        "paths": [
+          "/zohoone/*/home/cxapp/sprints/*"
+        ]
+      },
+      {
+        "appID": "1279756583",
+        "paths": [
+          "/zohoone/*/home/cxapp/sprints/*"
+        ]
+      },
+      {
+        "appID": "SPVQQBD2N2.com.handyz.zlearn",
+        "paths": [
+          "/zohoone/*/home/cxapp/learn/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX. com.zoho.inhouse.zlearn",
+        "paths": [
+          "/zohoone/*/home/cxapp/learn/*"
+        ]
+      },
+      {
+        "appID": "R4F89R73A4.com.vtouch.zmeeting",
+        "paths": [
+          "/zohoone/*/home/cxapp/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/register/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/joinWebinar/*"
+        ]
+      },
+      {
+        "appID": "7VPXG96P25.com.jambav.meeting",
+        "paths": [
+          "/zohoone/*/home/cxapp/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/register/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/directRegistration/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/joinWebinar/*"
+        ]
+      },
+      {
+        "appID": "3QZ6UJB6QX.com.zoho.inhouse.meeting",
+        "paths": [
+          "/zohoone/*/home/cxapp/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/register/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/directRegistration/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/joinWebinar/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.meeting",
+        "paths": [
+          "/zohoone/*/home/cxapp/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/join/*",
+          "/zohoone/*/home/cxapp/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/login/join.jsp/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/register/join/*",
+          "/zohoone/*/home/cxapp/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/meeting-start/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/directRegistration/*",
+          "/zohoone/*/home/cxapp/meeting/meeting/joinWebinar/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zexpense",
+        "paths": [
+          "NOT /zohoone/*/home/cxapp/expense/AcceptInvitaion/*",
+          "/zohoone/*/home/cxapp/expense/*"
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zbooks",
+        "paths": [
+          "/zohoone/*/home/cxapp/books/switch/*"
+        ],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/books/switch/*"
+          }
+        ]
+      },
+      {
+        "appID": "DT5G93MSS9.com.zoho.zinvoice",
+        "paths": [
+          "/zohoone/*/home/cxapp/invoice/switch/*"
+        ],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/invoice/switch/*"
+          }
+        ]
+      },
+      {
+        "appID": "DT5G93MSS9.com.zoho.zinvoice",
+        "paths": [
+          "/zohoone/*/home/cxapp/checkout/switch/*"
+        ],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/checkout/switch/*"
+          }
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zinventory",
+        "paths": [
+          "/zohoone/*/home/cxapp/inventory/switch/*"
+        ],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/inventory/switch/*"
+          }
+        ]
+      },
+      {
+        "appID": "TZ824L8Y37.com.zoho.zpayroll",
+        "paths": [
+          "/portal/*"
+        ],
+        "components": [
+          {
+            "/": "/portal/*"
+          }
+        ]
+      },
+      {
+        "appIDs": ["3QZ6UJB6QX.com.zoho.inhouse.mail.tasks", "7VPXG96P25.com.jambav.mail.tasks", "TZ824L8Y37.com.zoho.mail.tasks"],
+        "components": [{
+          "/": "/zohoone/*/home/cxapp/todo/zm/*",
+          "#": "task*"
+        },
+        {
+          "/": "/zohoone/*/home/cxapp/todo/zm/*",
+          "#": "stream*/3/*"
+        }]
+      },
+      {
+        "appIDs": ["7VPXG96P25.com.jambav.mail.streams", "TZ824L8Y37.com.zoho.mail.streams", "3QZ6UJB6QX.com.zoho.inhouse.streams"],
+        "components": [{
+          "/": "/zohoone/*/home/cxapp/todo/zm/*",
+          "#": "stream*"
+        }]
+      },
+      {
+        "appID":[
+          "R4F89R73A4.com.vtouch.zmail",
+          "3QZ6UJB6QX.com.vtouch.inhouse.mail",
+          "TZ824L8Y37.com.zoho.zmail"
+        ],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/mail/zm/*",
+            "#": "mail*"
+          }
+        ]
+      },
+  "activitycontinuation": {
+    "apps": [
+      "TZ824L8Y37.com.zoho.zohosheet",
+      "TZ824L8Y37.com.zoho.sheet",
+      "7VPXG96P25.com.jambav.teamdrive.Clip"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "TZ824L8Y37.com.zoho.notebook.appclip",
+      "TZ824L8Y37.com.zoho.sign.AppClip",
+      "TZ824L8Y37.com.zoho.zbooks.Clip",
+      "DT5G93MSS9.com.zoho.zinvoice.Clip",
+      "TZ824L8Y37.com.zoho.zohosheet"
+    ]
+  }
+}
