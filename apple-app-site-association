@@ -4,8 +4,8 @@
             {
                 "appIDs": ["3QZ6UJB6QX.com.zoho.inhouse.mail.tasks", "7VPXG96P25.com.jambav.mail.tasks", "TZ824L8Y37.com.zoho.mail.tasks"],
                 "components": [{
-		          "/": "/zohoone/*/home/cxapp/todo/zm/*",
-		          "#": "task*"
+		          "/": "*",
+		          "#": "*"
                     },
                     {
           "/": "/zohoone/*/home/cxapp/todo/zm/*",
