@@ -924,7 +924,9 @@
             "#": "mail*"
           }
         ]
-      },
+      }
+    ]
+  },
   "activitycontinuation": {
     "apps": [
       "TZ824L8Y37.com.zoho.zohosheet",
