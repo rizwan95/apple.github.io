@@ -6,7 +6,33 @@
         "components": [
           {
             "/": "/oauth/*",
-            "comment": "Matches any URL with a path that starts with /oauth/youtube/ followed by any characters."
+            "comment": "Matches any URL with a path that starts with /oauth/ followed by any characters."
+          },
+          {
+            "/": "/zohoone/*/home/cxapp/todo/zm/*",
+            "#": "task*"
+          },
+          {
+            "/": "/zohoone/*/home/cxapp/todo/zm/*",
+            "#": "stream*/3/*"
+          }
+        ]
+      },
+      {
+        "appIDs": ["7VPXG96P25.com.jambav.mail.streams", "TZ824L8Y37.com.zoho.mail.streams", "3QZ6UJB6QX.com.zoho.inhouse.streams"],
+        "components": [
+          {
+            "/": "/zohoone/*/home/cxapp/todo/zm/*",
+            "#": "stream*"
+          }
+        ]
+      },
+      {
+        "appIDs": ["R4F89R73A4.com.vtouch.zmail", "3QZ6UJB6QX.com.vtouch.inhouse.mail", "TZ824L8Y37.com.zoho.zmail"],
+        "components": [
+          {
+            "/": "/zm/*",
+            "#": "mail*"
           }
         ]
       }
